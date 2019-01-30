@@ -1,0 +1,36 @@
+body {
+  border-style: solid;
+  border-color: azure;
+}
+
+header {
+  background-color: rgb(28, 68, 136);
+  background-size: 3cm;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150%;
+  margin: 0;
+  border-style: solid;
+  border-color: black
+  
+}
+header h1 {
+      color: rgb(236, 240, 244);
+      text-align: center;
+      
+    }
+div.block-text{ text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10cm
+}
+
+main { text-align: center;}
+
+footer {background-color: rgb(28, 68, 136);
+        background-size: 50vh}
+
+img {float: right
+}
+
+
+
